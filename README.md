@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **manikandanarvind@gmail.com**
 
-- 📄 Know about my experiences [artun-o.github.io](artun-o.github.io)
+- 📄 Know about my experiences [here](https://artun-o.github.io)
 
 
 <h3 align="left">Languages and Tools:</h3>
