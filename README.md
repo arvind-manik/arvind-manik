@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [workout-tracker](https://github.com/artun-o/workout-tracker)
 
-- 🌱 I’m currently learning **Flutter, SDL**
+- 🌱 I’m currently learning **Flutter, UE5**
 
 - 💬 Ask me about **Java/JavaScript**
 
